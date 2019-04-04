@@ -16,6 +16,7 @@ mshanmu3/Example-Node:
     - npm install
     - echo "--Testing--"
     - npm test
+    - echo "Test is completed"
 
   PkgInclude:
     - '*'
